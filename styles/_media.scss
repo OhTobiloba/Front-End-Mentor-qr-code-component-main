@@ -1,0 +1,32 @@
+@media screen and (max-width: 600px){
+body {
+    .card {
+        width:375px;
+        .cardImage {img {
+            width:375px;
+        }}
+    }
+}
+}
+
+@media screen and (max-width: 500px){
+body {
+    .card {
+        width:300px;
+        .cardImage {img {
+            width:300px;
+        }}
+    }
+}
+}
+
+@media screen and (max-width: 350px){
+body {
+    .card {
+        width:250px;
+        .cardImage {img {
+            width:250px;
+        }}
+    }
+}
+}
